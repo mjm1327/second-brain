@@ -51,6 +51,12 @@ All 4 plans at business-plans/:
 - Need from Mark: vehicles, driver ages, zip code, current premium, coverage details
 - Plan: get competing quotes from 5-6 insurers, then use as leverage with Geico
 
-## 6. Agriculture Sector Research
+## 6. Mac Mini Purchase Discussion
+- M4 Mac Mini ($599) — move OpenClaw permanently off laptop
+- Always-on 24/7, laptop can sleep freely
+- 30 min migration: git clone workspace + re-auth everything
+- Buy at apple.com or Apple Store
+
+## 7. Agriculture Sector Research
 - Mark flagged this as an investment/business opportunity to explore
 - Look into: AI precision farming, water tech, food security, agtech startups
